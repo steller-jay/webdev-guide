@@ -10,7 +10,7 @@ This is my version of a guide for learning more about web development. I'm focus
 ## Class Path
 
 | Class or Project | Status | Link |
-| :------: | ------ | :------: |
+| ------ | ------ | ------ |
 | FCC Responsive Web Design Course | complete | |
 | FCC Tribute Page | in progress | |
 | FCC Survey Form | in progress | |
