@@ -3,9 +3,9 @@ This is my version of a guide for learning more about web development. I'm focus
 
 ------
 
-## Coding Log
-
-## Resources
+## Other files in this project
+* [Coding Log](https://scrimba.com/)
+* [Resources](https://scrimba.com/)
 
 ## Class Path
 
