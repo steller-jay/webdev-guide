@@ -4,8 +4,8 @@ This is my version of a guide for learning more about web development. I'm focus
 ------
 
 ## Other files in this project
-* [Coding Log](https://scrimba.com/)
-* [Resources](https://scrimba.com/)
+* [Coding Log](https://github.com/steller-jay/webdev-guide/blob/main/log.md)
+* [Resources](https://github.com/steller-jay/webdev-guide/blob/main/resources.md)
 
 ## Class Path
 
