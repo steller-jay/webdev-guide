@@ -12,7 +12,7 @@ This is my version of a guide for learning more about web development. I'm focus
 | Class or Project | Status | Link |
 | ------ | ------ | ------ |
 | FCC Responsive Web Design Course | complete | |
-| FCC Tribute Page | in progress | |
+| FCC Tribute Page | complete | [Tribute Page](https://steller-jay.github.io/fcc-tribute/) |
 | FCC Survey Form | in progress | |
 | FCC Product Landing Page | | |
 | FCC Technical Documentation Page | | |

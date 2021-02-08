@@ -8,4 +8,5 @@ Kinda like the [100 Days of Code](https://github.com/kallaway/100-days-of-code) 
 ## Feb 5th
 Setup these pages to keep track of progress and resources
 
-
+## Feb 8th
+Recreated the tribute page from start to finish. So much easier after taking the classes out at scrimba.  FCC is nice, but doesn't really prepare you to start writing code from scratch.  
