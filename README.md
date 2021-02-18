@@ -13,12 +13,13 @@ This is my version of a guide for learning more about web development. I'm focus
 | ------ | ------ | ------ |
 | FCC Responsive Web Design Course | complete | |
 | FCC Tribute Page | complete | [Tribute Page](https://steller-jay.github.io/fcc-tribute/) |
-| FCC Survey Form | in progress | |
-| FCC Product Landing Page | | |
+| FCC Survey Form | complete | [Survey Form](https://steller-jay.github.io/fcc-survey/) |
+| FCC Product Landing Page | in progress | |
 | FCC Technical Documentation Page | | |
 | FCC Personal Portfolio Page | | |
 | Scrimba HTML & CSS Basics Course | complete | |
 | Planets Site v1 | in progress | | 
+| Scrimba Interactive Websites Course | in progress | |
 
 ## Extra Goals
 * Learn more about Git and GitHub to use in development
