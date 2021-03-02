@@ -13,3 +13,6 @@ Recreated the tribute page from start to finish. So much easier after taking the
 
 ## Feb 18th
 Yikes, I need to keep up on more daily progress. I recoded the survey site from scratch and it went much faster after scrimba as well.  I'm building out the planets website based on scrimba, then I also need to do the product page from freecode camp
+
+## Mar 2nd
+Added a project to github for a webpage with a random related color pattern generator.  It's very basic, but you can click on it and see new colors so it's cool!  It's my first in a series of planned projects to help generate ideas for designs.
