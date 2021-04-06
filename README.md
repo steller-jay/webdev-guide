@@ -20,6 +20,7 @@ This is my version of a guide for learning more about web development. I'm focus
 | Scrimba HTML & CSS Basics Course | complete | |
 | Planets Site v1 | in progress | | 
 | Scrimba Interactive Websites Course | in progress | |
+| FCC JavaScript Algorithms & Data Structure | in progress | |
 
 ## Extra Goals
 * Learn more about Git and GitHub to use in development
